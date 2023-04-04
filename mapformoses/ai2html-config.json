@@ -1,0 +1,28 @@
+{
+    "fonts": [
+        {
+            "aifont": "LibreFranklinRoman-Bold",
+            "family": "LibreFranklinRoman",
+            "weight": "800",
+            "style": "Bold"
+        },
+        {
+            "aifont": "LibreFranklinRoman-Regular",
+            "family": "LibreFranklinRoman",
+            "weight": "600",
+            "style": "Regular"
+        },
+        {
+            "aifont": "LibreFranklinRoman-SemiBold",
+            "family": "LibreFranklinRoman",
+            "weight": "700",
+            "style": "SemiBold"
+        },
+        {
+            "aifont": "LibreFranklinRoman-Black",
+            "family": "LibreFranklinRoman",
+            "weight": "800",
+            "style": "Black"
+        }
+    ]
+}
